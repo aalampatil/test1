@@ -3,4 +3,6 @@ this is second line.
 this is third line.
 this is fourth line.
 
-this is fifth line.
+this is the fifth line in 2.0 version of test1
+
+merged branch
